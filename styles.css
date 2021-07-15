@@ -270,6 +270,9 @@ figcaption {
   .loc2 {
     display: flex;
   }
+  .loc-img {
+    opacity: 1;
+  }
 }
 
 /* ADDRESS */
